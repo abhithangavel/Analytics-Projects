@@ -6,5 +6,5 @@
 2. Exploratory Data Analysis of Hotel Reservations Dataset using PowerBI Dashboard [Link](https://github.com/abhithangavel/Analytics-and-Visualization-Projects/blob/main/Hotel%20Reservation_PowerBI.pdf)
 - Dataset from Kaggle: [Hotel Reservation](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
-3. Customer Behavioral Analysis
+3. Customer Behavioral Analysis [Link](https://github.com/abhithangavel/Analytics-and-Visualization-Projects/blob/main/Customer_Behavioural_Analysis.pdf)
 - Leveraged Python for efficient data processing, enabling advanced customer segmentation and tailored digital strategies that substantially increased digital transactions and profitability for the company.
