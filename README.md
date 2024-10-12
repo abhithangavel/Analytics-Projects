@@ -8,3 +8,6 @@
 
 3. Customer Behavioral Analysis [Link](https://github.com/abhithangavel/Analytics-and-Visualization-Projects/blob/main/Customer_Behavioural_Analysis.pdf)
 - Leveraged Python for efficient data processing, enabling advanced customer segmentation and tailored digital strategies that substantially increased digital transactions and profitability for the company.
+
+4. SuperStore Tableau Dashboard [Link]([https://github.com/abhithangavel/Analytics-and-Visualization-Projects/blob/main/Superstore_tableau.pdf])
+- Used the data available online on Superstore to create a detailed 4 page dashboards on Tableau.
